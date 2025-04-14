@@ -28,7 +28,9 @@ This repository contains an interactive Power BI dashboard that visualizes the *
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Overview](./Screenshots/dashboard_overview.png)
+![Dashboard Overview]((https://github.com/KaushikSatpute/global_energy_dashboard/blob/0667f9c549684c1fd4d641f774c55931800d17fe/Screenshots/Screenshot%202025-04-14%20125114.png))
+![Dashboard Overview]((https://github.com/KaushikSatpute/global_energy_dashboard/blob/0667f9c549684c1fd4d641f774c55931800d17fe/Screenshots/Screenshot%202025-04-14%20125152.png)))
+
 
 ## 🤝 Connect with Me
 🔗 [LinkedIn](https://www.linkedin.com/in/kaushik-satpute) 
